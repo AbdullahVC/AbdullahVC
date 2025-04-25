@@ -43,6 +43,11 @@ I aim to grow into a highly competent full stack developer who can contribute to
 - Figma for prototyping
 - Agile development workflows
 
+🗣️ Languages
+- Turkish (Native)
+- German (Fluent)
+- English (Intermediate)
+
 ---
 
 ### 📬 Contact Me
