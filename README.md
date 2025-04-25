@@ -3,7 +3,8 @@
 
 ---
 
-I am a junior developer specializing in building scalable and maintainable full stack web applications using **.NET Core**, **Entity Framework**, and modern frontend frameworks such as **React**.
+I build scalable and maintainable full-stack applications using .NET Core and React, with a focus on clean architecture and modern best practices.
+
 
 ---
 
@@ -31,7 +32,7 @@ I aim to grow into a highly competent full stack developer who can contribute to
 
 #### 🔜 Frontend
 - React (SPA / Hooks / Router)
-- JavaScript / TypeScript (beginner level)
+- JavaScript / TypeScript
 - Tailwind CSS / Material UI
 - HTML5 / CSS3 / Sass
 - Axios / Zustand / React Router
