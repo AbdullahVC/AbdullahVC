@@ -1,97 +1,74 @@
-<h1 align="center">Hi 👋, I'm Abdullah Veysel Coşkun</h1>
-<h3 align="center">JavaScript Developer | Building Modern Web Applications</h3>
+<h1 align="center">Abdullah Veysel Coşkun</h1>
+<h3 align="center">Full-Stack AI Developer</h3>
 
----
-
-I build modern, scalable web applications using the JavaScript ecosystem.  
-My focus is on mastering the full development lifecycle — from frontend architecture to backend APIs — using clean, maintainable, and production-ready practices.
-
----
-
-## 🚀 JavaScript Journey
-
-### ✅ What I’ve Learned
-- HTML5 / CSS3
-- JavaScript (ES6+)
-- React (SPA, Hooks, Component Architecture)
-- React Router
-- Axios
-- Tailwind CSS
-- Material UI
-- Git & GitHub
-- REST API consumption
-- Basic state management patterns
-
----
-
-### 🔄 Currently Learning
-- Advanced JavaScript concepts (closures, async patterns, performance)
-- TypeScript
-- Advanced React patterns
-- Zustand (state management)
-- API architecture with Node.js & Express
-- Authentication flows (JWT, session logic)
-- Clean project structuring in large-scale React apps
-
----
-
-### 🎯 Next Goals
-- Next.js (SSR, App Router, fullstack patterns)
-- Scalable backend architecture with Node.js
-- Testing (Jest / React Testing Library)
-- System design basics for web applications
-- Production deployment workflows (CI/CD basics)
-- Performance optimization and security best practices
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Frontend
-- React
-- JavaScript / TypeScript
-- Tailwind CSS / Material UI
-- HTML / CSS
-- Axios
-- Zustand
-- React Router
-
-### 🖥 Backend (JavaScript Ecosystem)
-- Node.js (learning & building)
-- Express.js
-- REST APIs
-- Basic authentication logic
-
-### ⚙️ Tools
-- Git / GitHub
-- VS Code
-- Figma (UI planning)
-- Agile workflow mindset
-
----
-
-## 🌍 Languages
-- 🇹🇷 Turkish (Native)
-- 🇩🇪 German (Fluent)
-- 🇬🇧 English (Intermediate)
-
----
-
-## 📬 Contact Me
-- 📧 abdullahvcoskun@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/abdullahvcoskun/  
-- 🌐 Portfolio: https://abdullahvcoskun.dev/
-
----
-
-## 📊 GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahvc&show_icons=true&locale=en&layout=compact" alt="abdullahvc" />
+<p align="center">
+  Next.js · TypeScript · Node.js · Python · AI Systems & Automation
 </p>
 
 ---
 
-> Focused on mastering JavaScript deeply instead of touching everything superficially.
-> Long-term goal: Build scalable, clean, production-ready web systems.
+## About
 
-[![My GitCity Skyline](https://gitcity.natrajx.in/api/svg?u=AbdullahVC)](https://gitcity.natrajx.in/AbdullahVC)
+I build modern web applications with integrated AI capabilities — from production-ready Next.js frontends to AI-driven backend systems and automation workflows.
+
+My focus is the intersection of full-stack development and applied AI: combining clean web architecture with LLM integrations, agentic workflows, and automation pipelines that deliver real business value.
+
+---
+
+## What I Build
+
+- **Full-Stack Web Applications** — Next.js 15 (App Router, SSR/RSC), React, TypeScript, PostgreSQL/Prisma
+- **AI-Powered Systems** — LLM integrations, agentic workflows, Claude API & Anthropic SDK, RAG pipelines
+- **Automation Workflows** — n8n-based automation, WhatsApp/Telegram bots, AI-driven message routing, multi-step approval flows
+- **Backend & APIs** — Node.js, Express, REST APIs, authentication, database design
+- **Developer Tooling** — Custom Claude Code workflows, skills, and agent architectures
+
+---
+
+## Tech Stack
+
+**Frontend** — Next.js, React, TypeScript, Tailwind CSS, shadcn/ui  
+**Backend** — Node.js, Express, PostgreSQL, Prisma, REST APIs  
+**AI & Automation** — Claude API, Anthropic SDK, n8n, Python (AI tooling), Ollama  
+**DevOps & Tools** — Git, GitHub, VS Code, Hetzner VPS, Vercel, Claude Code
+
+---
+
+## Currently Working On
+
+- Multi-organization institutional website (Next.js 15, dark green/gold design system)
+- n8n + WhatsApp + Trello automation pipelines for DACH market
+- Custom Claude Code skills and agentic workflows
+- Educational tooling and content systems
+
+---
+
+## Languages
+
+- 🇹🇷 Turkish — Native
+- 🇩🇪 German — Fluent
+- 🇬🇧 English — Intermediate
+
+---
+
+## Contact
+
+- 📧 **Email:** abdullahvcoskun@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/abdullahvcoskun](https://www.linkedin.com/in/abdullahvcoskun/)
+- 🌐 **Portfolio:** [abdullahvcoskun.dev](https://abdullahvcoskun.dev/)
+
+---
+
+## My GitHub Contribution Skyline
+
+<p align="center">
+  <a href="https://gitcity.natrajx.in/AbdullahVC">
+    <img src="https://gitcity.natrajx.in/api/svg?u=AbdullahVC" alt="GitCity Skyline" width="100%" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building production-ready systems where modern web meets applied AI.</i>
+</p>
