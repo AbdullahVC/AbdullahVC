@@ -93,3 +93,5 @@ My focus is on mastering the full development lifecycle — from frontend archit
 
 > Focused on mastering JavaScript deeply instead of touching everything superficially.
 > Long-term goal: Build scalable, clean, production-ready web systems.
+
+[![My GitCity Skyline](https://gitcity.natrajx.in/api/svg?u=AbdullahVC)](https://gitcity.natrajx.in/AbdullahVC)
